@@ -112,11 +112,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "박건아"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            : ncc0816@gmail.com
+  location         : "대한민국"
+  email            : "이메일"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
